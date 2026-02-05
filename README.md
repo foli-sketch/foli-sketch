@@ -1,26 +1,39 @@
-### Hi there, I'm Lionokenzi! 👋
+# Hi there, I'm Lionokenzi👋
 
-I am an aspiring developer and innovator passionate about solving real-world problems through technology. My goal is to build impactful solutions and participate in hackathons to learn and grow.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Hackathon+Enthusiast;Future+Full+Stack+Developer;AI+%26+Innovation+Lover;Building+Solutions..." alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on: **Innovative Hackathon Ideas & AI Solutions**
-- 🌱 I’m currently learning: **Python, Problem Solving, and Open Source**
-- 🤝 I’m looking to collaborate on: **Hackathon projects & Team building**
-- ⚡ Fun fact: **I believe a great idea is the first line of code!**
+<br/>
 
----
+<a href="https://github.com/foli-sketch">
+  <img src="https://github-profile-trophy.vercel.app/?username=foli-sketch&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</a>
 
-### 🛠️ Languages and Tools
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-</p>
+<br/>
+
+### 🚀 About Me
+I am an aspiring developer on a mission to solve real-world problems.  
+I don't just write code; I build **solutions**.
 
 ---
 
-### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=foli-sketch&show_icons=true&theme=radical" alt="foli-sketch's Github Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foli-sketch&theme=radical" alt="foli-sketch's Streak" />
+### 🛠️ Tech Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=foli-sketch&show_icons=true&theme=radical&hide_border=true" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=foli-sketch&theme=radical&hide_border=true" />
 </p>
+
+### 📫 Connect with Me
+<a href="https://github.com/foli-sketch">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
